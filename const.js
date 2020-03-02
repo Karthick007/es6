@@ -25,3 +25,11 @@ arr[0] = 9;
 arr[3] = 10;
 
 console.log(arr);
+
+
+
+const EMPTY_ARRAY = Object.freeze([]);
+
+EMPTY_ARRAY[0] = "1234"; // It doesn't through any error also value not added to the array since it is freezed
+
+console.log(EMPTY_ARRAY);
