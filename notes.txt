@@ -1,0 +1,7 @@
+Node js - a JavaScript runtime built on Chrome's V8 JavaScript engine 
+// Refer link for NodeJs supports - https://node.green/ 
+
+V8 is Google’s open source high-performance JavaScript (ECMSScript) and WebAssembly engine, written in C++
+
+Now Babel JS and Type Script are used for converting projects from ES6 to browser compatibe javascript code.
+
